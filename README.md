@@ -191,5 +191,7 @@ for d_i in die:
 ## OUTPUT:
 ![Screenshot 2024-10-19 234344](https://github.com/user-attachments/assets/fc796a59-d40e-4d38-b317-3121a95a2511)
 
+
+
 ![Screenshot 2024-10-19 234501](https://github.com/user-attachments/assets/ec089248-00a6-4f98-b8e3-9c7b60ee0aec)
 
